@@ -12,6 +12,7 @@ public class Name {
         JLabel label = new JLabel();
         frame.add(label);
 
+
         frame.addKeyListener(new KeyListener() {
             @Override
             public void keyTyped(KeyEvent e) {
